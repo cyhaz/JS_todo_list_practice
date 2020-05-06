@@ -1,0 +1,25 @@
+body {background: lightgray;}
+#container {
+    margin: auto;
+    width: 400px;
+    height: 600px;
+    position: relative;
+}
+#container div {
+    width: 400px;
+    position: relative;
+    background-color: white;
+}
+#header {
+    height: 200px;
+    background-image: url("res/bg1.jpg");
+    background-size: 400px 230px;
+    border-radius: 30px 30px 0px 0px;
+}
+#contents {
+    height: 350px;
+}
+#addArea {
+    height: 50px;
+    border-top: 1.5px solid lightgray;
+}
